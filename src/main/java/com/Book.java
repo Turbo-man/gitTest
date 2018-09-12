@@ -16,6 +16,6 @@ import org.springframework.stereotype.Component;
 
 public class Book {
     public void add(){
-        System.out.println("add..c'c'c'c.");
+        System.out.println("add..dddd.");
     }
 }
