@@ -15,5 +15,14 @@ import org.springframework.stereotype.Component;
  */
 
 public class Book {
-    public void add(){
-System.out.println("add..20189141611.");}}
+    public void add()
+	{
+
+		System.out.println("add..20189141611.");
+		
+	}
+
+        System.out.println("add..20189141611.");
+    
+}
+
